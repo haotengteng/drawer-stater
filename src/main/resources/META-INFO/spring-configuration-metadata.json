@@ -1,0 +1,37 @@
+{
+  "hits": [],
+  "groups": [
+    {
+      "sourceType": "com.bee.ms.drawer.autoconfigure.DrawerProperties",
+      "name": "drawer",
+      "type": "com.bee.ms.drawer.autoconfigure.DrawerProperties"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.bee.ms.drawer.autoconfigure.DrawerProperties",
+      "name": "drawer.log-switch",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "com.bee.ms.drawer.autoconfigure.DrawerProperties",
+      "name": "drawer.ident-tooker.max-keep-number",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.bee.ms.drawer.autoconfigure.DrawerProperties",
+      "name": "drawer.ident-tooker.limit-allow-exist-number",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.bee.ms.drawer.autoconfigure.DrawerProperties",
+      "name": "drawer.ident-tooker.per-request-step",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.bee.ms.drawer.autoconfigure.DrawerProperties",
+      "name": "drawer.ident-tooker.enable",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
